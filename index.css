@@ -1,0 +1,8 @@
+* {
+  margin: 0;
+}
+#title{
+  text-align:center;
+  font-style:italic;
+  text-shadow:5px 5px red;
+}
